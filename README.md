@@ -13,6 +13,7 @@ A simple digital clock project built using HTML, CSS, and JavaScript.
 
 - `index.html`: The main HTML file that includes the structure of the clock.
 - `style.css`: The CSS file for styling the clock and its container.
+- `javascript`: The js part is included in the html file into script tag.
 
 ## Usage
 
