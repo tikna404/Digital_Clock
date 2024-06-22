@@ -36,4 +36,4 @@ This project is licensed under the MIT License.
 
  ### Feel free to modify and use this project for your personal or commercial projects.
 
- ## Happy Coding!
+ ## Happy Coding! Keep eyes on Time!
